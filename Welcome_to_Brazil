@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brazil</title></head
+  ><style>
+    body {
+      background: linear-gradient(
+        109.6deg,
+        rgba(98, 210, 141, 0.88) 11.2%,
+        rgba(234, 245, 45, 0.79) 88%
+      );
+    }
+    .content {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+      font-family: Verdana;
+      font-weight: bold;
+      font-size: 50px;
+      padding: 10px 10px;
+      text-shadow: 5px 5px 10px rgba(43, 119, 43, 0.4);
+      color: #2b772b;
+    }
+    h2 {
+      text-align: center;
+      font-family: Verdana;
+      font-size: 50px;
+      text-shadow: 5px 5px 10px rgba(49, 114, 175, 0.4);
+      color: #3172af;
+    }
+
+    img {
+      margin: 10px 10px 10px 10px;
+      border: 1px solid #5df15e;
+      border-radius: 57px;
+    }
+    p {
+      font-size: 15px;
+      font-family: Verdana;
+      text-align: center;
+      margin: 0 auto;
+      padding-bottom: 15px;
+    }
+    .more-info {
+      display: block;
+      text-align: center;
+      text-decoration: underline;
+      color: rgb(51, 139, 147);
+      font-size: 20px;
+      margin: 10px 10px;
+    }
+    button {
+      display: block;
+      margin: 0 auto;
+      color: darkturquoise;
+      font-size: 30px;
+      background-color: white;
+      padding: 10px 50px;
+      transition: ease-in-out;
+      border-radius: 10px;
+      box-shadow: 5px 5px 10px;
+      line-height: 22px;
+      border-color: rgb(51, 139, 147);
+    }
+    .footer {
+      text-align: center;
+      color: darkslategrey;
+      margin-top: 20px;
+      font-size: 20px;
+      cursor: pointer;
+      transition: 200ms ease-in-out;
+    }
+    .brazil-button {
+      cursor: pointer;
+    }
+    button:hover {
+      color: darkturquoise;
+      border: 1px solid blueviolet;
+    }
+  </style>
+  <body>
+    <div class="content">
+      <h1>
+        <strong>Araujo Tourism </strong>
+      </h1>
+      <h2>
+        <em><strong>Visit Brazil</strong></em>
+      </h2>
+      <p>
+        <img
+          src="https://emtodolugarnet.files.wordpress.com/2021/07/cristo-redentor.jpg?w=1540"
+          width="700"
+          height="400"
+        /><br />
+        <img
+          src="https://emtodolugarnet.files.wordpress.com/2021/07/pao-de-acucar.jpg?w=674"
+          width="700"
+          height="400"
+        />
+        <img
+          src="https://emtodolugarnet.files.wordpress.com/2021/07/baia-de-sancho.jpg"
+          width="700"
+          height="400"
+        />
+        <img
+          src="https://emtodolugarnet.files.wordpress.com/2021/07/parque-do-ibirapuera.jpg"
+          width="700"
+          height="400"
+        />
+        <img
+          src="https://emtodolugarnet.files.wordpress.com/2021/07/lago-de-furnas.jpg"
+          width="700"
+          height="400"
+        />
+        <img
+          src="https://lp-cms-production.imgix.net/image_browser/shutterstockRF_153080222.jpg"
+          width="700"
+          height="400"
+        />
+      </p>
+      <p>
+        Brazil: An eclectic mix of people, culture, and stunning landscapes, all
+        combined into one vibrant and captivating destination. This is where the
+        forests and rivers hide the greatest biodiversity on the planet; this is
+        where the most lively cities will capture your heart.
+      </p>
+
+      <p>
+        Most of Brazil sits south of the equator. Visiting the country is a
+        fantastic idea no matter what the time of year as the weather is
+        generally perfect! You can expect a predominantly tropical climate with
+        temperatures averaging above 25°C.
+      </p>
+
+      <p>
+        Although most of the country lies in the tropics, you will also find
+        plateau cities such as Sao Paulo with milder climates and cooler
+        temperatures. Warm and tropical, Brazil is the best country to travel to
+        if you want to escape the cold of the Northern Hemisphere between
+        November and March. These are Brazil’s warmest months and also when the
+        beach life in Brazil is in full swing!
+      </p>
+
+      <p>
+        Does it rain in Brazil? Of course. That said, the country usually gets
+        300 sunny days a year, so you can expect a good amount of clear weather.
+        It’s worth noting that the northeastern coast experiences more rain in
+        June and July, but usually in the form of quick afternoon showers.
+      </p>
+
+      <p>
+        If you’re visiting the Pantanal, the driest months between April and
+        October offer the best wildlife spotting opportunities, especially if
+        you want to see jaguars. December through March is often the best time
+        to observe migratory birds. June and July are the perfect months to
+        visit the Green Coast sitting between Rio and Sao Paulo.
+      </p>
+
+      <p>
+        You can enjoy cooler evenings and warm sea waters. Visiting the Amazon
+        will be a hot and humid affair whenever you decide to visit. Instead,
+        you should take note of the rainy season. From November to January,
+        during the wetter months, you’ll do much of your exploring in a boat
+        rather than on foot.
+      </p>
+
+      <a
+        href="https://www.visitbrasil.com/en/"
+        target="_blank"
+        class="more-info"
+      >
+        more infomation
+      </a>
+      <button class="brazil-button">
+        <strong><em>Subscribe for Offers</em></strong>
+      </button>
+      <p class="footer">
+        <bold>This page was built by</bold>
+        <a
+          href="https://ie.linkedin.com/in/melissa-araujo-390572164"
+          target="_blank"
+        >
+          <bold> Melissa Araujo</bold>
+        </a>
+      </p>
+    </div>
+    <script>
+      function brazil() {
+        let name = prompt("what is your name?");
+        let email = prompt("what is your email address?");
+        let visit = prompt("when are you planning to travel?");
+        if (visit === "today") {
+          alert(`Thank you ${name} you for sharing your contact with us. `);
+        } else {
+          alert(
+            `${name} we will send you photos of seesights in brazil to make it easier for you to decide on your trip`
+          );
+        }
+      }
+      let brazilButton = document.querySelector(".brazil-button");
+      brazilButton.addEventListener("click", brazil);
+    </script>
+  </body>
+</html>
